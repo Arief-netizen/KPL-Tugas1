@@ -1,5 +1,10 @@
+**KEAMANAN PERANGKAT LUNAK**
 Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ---
+Tugas Pertemuan 1 membuat program komputer sederhana untuk:
+1. Menghitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf
+2. Menghitung luas dan volume balok
+
 
 ## Screenshots Output Program
 
