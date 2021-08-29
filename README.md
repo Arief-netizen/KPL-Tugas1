@@ -1,8 +1,8 @@
 Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ---
 
-## SCREENSHOTS
-Output Program
+## Screenshots Output Program
+
 
 **Penghitungan Luas dan Volume Pada Balok (GUI)**
 ---
