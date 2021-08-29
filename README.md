@@ -2,9 +2,9 @@
 ---
 Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ---
-Tugas Pertemuan 1 membuat program komputer sederhana untuk:
-1. Menghitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf
-2. Menghitung luas dan volume balok
+Tugas Pertemuan 1 Membuat Program Komputer Sederhana Untuk:
+1. Menghitung Nilai Mahasiswa dan Konversi Menjadi Nilai Huruf (Web dan Non-Web)
+2. Menghitung Luas dan Volume Balok (Web dan Non-Web)
 
 
 ## Screenshots Output Program
